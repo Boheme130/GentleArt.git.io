@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## The Gentle Ar of Fortune Hunting
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/GentleArtOfFortuneHunting.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+书名：The Gentle Art of Fortune Hunting <br>
+作者：KJ Charles <br>
+评分：5/5 <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 穷苦青年色诱富家女 却意外成为舅舅情人
 
-### Markdown
+### 一直一弯一对姐弟，一直一弯一对贵族好友，两两成对，穷困青年v.s.贵族舅舅，双强男主，然而两个女主更强，Math/概率论/贝叶斯公式，#Women in Mathematics#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+19世纪末英国，Robin是一个帅气的农村小伙，受够了居无定所的生活，他乔装打扮，贷款购买昂贵的衣物，装成一个绅士来到伦敦准备骗取一个富家女孩结婚，他的姐姐也乔装打扮成一个淑女一同寻找金龟婿。Robin看上了Alice。不过Robin还是一个Gay，他知道自己给不了Alice爱情，但在金钱的诱惑下，他还是尽力讨好Alice。在交往的过程中，他发现两人心有灵犀情投意合，Robin十分愧疚，暗中发誓结婚后会尽全力照顾好Alice。
 
-```markdown
-Syntax highlighted code block
+Hart是Alice的伯爵贵族舅舅，单身的他人高马大，性格粗犷，而且目光如炬一眼看穿了Robin低贱的出身和虚伪的外表。尽管他被Robin英俊的外表吸引，但爱侄女心切的Hart全力阻止这场婚事。Robin恨透了Hart舅舅，但Gay达哔哩哔哩直响，隐约察觉到了Hart对自己若即若离的眼神。
 
-# Header 1
-## Header 2
-### Header 3
+Hart最终找到证据停止了婚约，并设法让Robin欠下巨债。正当Hart以为他能把Robin玩弄于股掌之中时，Robin主动提出当Hart一个月的X奴偿债。Hart起初愤怒拒绝，但Robin直接跪在他的桌下拉开他的马裤……两人处境反转，专情木讷的Hart一下子成为了Robin这只狐狸精的猎物。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/GentleArtOfFortuneHunting.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*本来以为Alice是一个傻白甜的贵族千金，看到一半才发现她是整本书里最强一女的。Alice一直想研究真正的数学，但她作为贵族不被允许进入学界。这本书是我第一次在MM Romance里看到讨论数学的对话，男主和Hart舅舅打牌输得连底裤都没了，Alice和Robin散步时和他讲独立事件，随机变量，和贝叶斯公式，Robin内心都懵了(现代概率论是20世纪才建立起来的)。后面Alice知道了Robin的婚姻的真实意图后，本来以为她的反应要么是心碎欲裂，要么是心如磐石，但她最后做出了一个非常令人震撼的勇敢举动，也是和数学有关。
