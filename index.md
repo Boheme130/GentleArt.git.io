@@ -1,5 +1,7 @@
 ## The Gentle Ar of Fortune Hunting
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
+
+![avatar](https://i2.wp.com/jlgribble.com/wp-content/uploads/2021/03/Gentle-Art-of-Fortune-Hunting-featured.png?fit=1568%2C941&ssl=1)
 <br>
 <br>
 
