@@ -1,7 +1,7 @@
 ## The Gentle Ar of Fortune Hunting
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://i2.wp.com/jlgribble.com/wp-content/uploads/2021/03/Gentle-Art-of-Fortune-Hunting-featured.png?fit=1568%2C941&ssl=1)
+![avatar](https://media.newyorker.com/photos/5f46bbe0694e236d3e6d3158/16:9/w_2559,h_1439,c_limit/McGowan-TheWonderfulWorldofProbability.jpg)
 <br>
 <br>
 
